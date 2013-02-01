@@ -1,4 +1,4 @@
-package main
+package edn
 
 import (
 	"fmt"

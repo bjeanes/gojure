@@ -1,4 +1,4 @@
-package main
+package edn
 
 type Stack struct {
 	top  *StackItem
