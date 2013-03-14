@@ -7,7 +7,7 @@ language internals, lexers, parsers, compilers, and the likes.
 
 Feel free to offer feedback, criticism, or to contribute.
 
-Controibuting
+Contributing
 -------------
 
 Fork, code, pull request!
