@@ -3,7 +3,7 @@ Gojure
 
 A LISP written in Go, with some design cues from Clojure. This is a learning
 tool for myself and its only initial goals are to help me learn more about
-language internals, lexers, parsers, compilers, and the likes.
+Go, language internals, lexers, parsers, compilers, and the likes.
 
 Feel free to offer feedback, criticism, or to contribute.
 
